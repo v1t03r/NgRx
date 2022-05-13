@@ -1,4 +1,4 @@
-# APM-Demo5
+# NgRx
 
 Demo of container/presentational pattern and OnPush change detection strategy.
 
